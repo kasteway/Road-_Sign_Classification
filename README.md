@@ -50,9 +50,9 @@ To access and view a detailed description of the dataset, click here.
 ### Algorithm & Tools
 
 
-•	###
-•	###
-•	###
+•	Data-augmentation
+•	Batch-normalization
+•	Dropout
 •	###
 
 
