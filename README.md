@@ -5,7 +5,7 @@
 ### Abstract:
 
 
-The goal of this project is to use Deep Learning tools such as CNN and RNN to build a multi-class classification model to classify road traffic signs. Traffic sign recognition is the process of identifying which class the sign belongs to such as stop signs, traffic lights or speeding signs. Building a reliable traffic sign recognition system plays a critical role in developing and operating autonomous vehicles. 
+The goal of this project is to use Deep Learning tools such as CNN to build a multi-class classification model to classify road traffic signs. Traffic sign recognition is the process of identifying which class the sign belongs to such as stop signs, traffic lights or speeding signs. Building a reliable traffic sign recognition system plays a critical role in developing and operating autonomous vehicles. 
 
 
 
