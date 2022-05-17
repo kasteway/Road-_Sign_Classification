@@ -5,7 +5,7 @@
 ### Abstract:
 
 
-The goal of this project is to use Deep Learning tools such as Convolutional Neural Network to build a multi-class classification model to classify road signs. Building a reliable traffic sign recognition will help accelerate the growth of autonomous vehicles. This traffic sign recognition model will identify which class the sign belongs to such as stop signs, traffic lights or speeding signs. Building a reliable traffic sign recognition system plays a critical role in developing and operating autonomous vehicles. 
+The goal of this project is to use Deep Learning tools such as Convolutional Neural Network to build a multi-class classification model to classify road signs. Building a reliable traffic sign recognition will help accelerate the growth of in developing and operating autonomous vehicles. This traffic sign recognition model will identify which class the sign belongs to such as stop signs, traffic lights or speeding signs. 
 
 
 
@@ -49,13 +49,19 @@ To access and view a detailed description of the dataset, click here https://ben
 ---
 
 
-### Algorithm & Tools
+### Standard Machine Learning Algorithms
 
 
-•	Data-augmentation
-•	Batch-normalization
-•	Dropout
-•	###
+Baseline models using standard Machine Learning classification algorithms:
+1. Logistic Regression
+2. Random Forest
+3. Kneighbors
+
+### Convolutional Neural Network Algorithms
+
+Convolutional neural network models:
+1. CNN Model with 269,643 parameters
+2. Transfer Learning using VGG19
 
 
 ---
@@ -66,13 +72,11 @@ To access and view a detailed description of the dataset, click here https://ben
 
 The following tools were used in this project:
 
-1.	Python, Pandas: 
-       •	    Clean & Explore
-      
+1. Python & Pandas to clean, explore and generate the final modeling data
+2. SKLearn to build baseline Machine Learning classification models and measuring metrics
+3. Keras and TensorFlow to build Deep learning classification models
+4. Matplotlib and Seaborn to generate visualizations
 
-2.	Pytorch & Tensorflow tools to implement various modeling
-
-3.	Matplotlib and Seabn to visualize the data and model outputs
 
 ---
 
