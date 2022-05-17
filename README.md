@@ -5,7 +5,8 @@
 ### Abstract:
 
 
-The goal of this project is to use Deep Learning tools such as CNN to build a multi-class classification model to classify road traffic signs. Traffic sign recognition is the process of identifying which class the sign belongs to such as stop signs, traffic lights or speeding signs. Building a reliable traffic sign recognition system plays a critical role in developing and operating autonomous vehicles. 
+The goal of this project is to use Deep Learning tools such as Convolutional Neural Network to build a multi-class classification model to classify road signs. Building a reliable traffic sign recognition will help accelerate the growth of autonomous vehicles. This traffic sign recognition model will identify which class the sign belongs to such as stop signs, traffic lights or speeding signs. Building a reliable traffic sign recognition system plays a critical role in developing and operating autonomous vehicles. 
+
 
 
 
@@ -31,16 +32,17 @@ Therefore, a deep learning model was built to classify the class a road sign bel
 ### Data
 
 
-The data is from “The Mapillary Traffic Sign Dataset for Detection and Classification”. It contains over 52,000 images with traffic signs with 300 classes.
+The data is from The German Traffic Sign Recognition Benchmark. It contains over 50,000 images with traffic signs with 43 classes.
 
 
 
 - Single-image, multi-class classification 
 - Over 50,000 images
-- Over 300 Classes
+- 43 Classes
 - Different size images
+- - Image sizes vary between 15x15 to 250x250 pixels
 
-To access and view a detailed description of the dataset, click here. 
+To access and view a detailed description of the dataset, click here https://benchmark.ini.rub.de/gtsrb_news.html 
 
 
 
