@@ -14,7 +14,7 @@ The goal of this project is to use Deep Learning tools such as Convolutional Neu
 
 
 
-### Design:
+### Design
 
 
 The first step for a first-time driver’s license applicant is to pass the driving written test which contains identifying and understanding road signs. To keep our cities safe, all auto operators must recognize and abide by the rules on the road. With the growth of autonomous devices living with us, it is important for these autonomous devices to understand and communicate with humans.  
