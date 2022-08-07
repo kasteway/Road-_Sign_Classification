@@ -29,7 +29,7 @@ Therefore, a deep learning model was built to classify the class a road sign bel
 
 
 
-### Data
+### Data:
 
 
 The data is from The German Traffic Sign Recognition Benchmark. It contains over 50,000 images with traffic signs with 43 classes.
