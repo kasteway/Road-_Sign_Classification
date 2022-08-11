@@ -80,7 +80,7 @@ The following tools were used in this project:
 
 ---
 
-### Communication
+### Communication:
 
 
 The findings and slide deck accompanying this project's presentation are accessible in this GitHub repository
