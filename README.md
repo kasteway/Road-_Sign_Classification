@@ -68,7 +68,7 @@ Convolutional neural network models:
 
 
 
-### **TOOLS**
+### TOOLS:
 
 The following tools were used in this project:
 
