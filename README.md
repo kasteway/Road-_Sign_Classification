@@ -74,7 +74,7 @@ The following tools were used in this project:
 
 1. Python & Pandas to clean, explore and generate the final modeling data.
 2. SKLearn to build baseline Machine Learning classification models and measuring metrics
-3. Keras and TensorFlow to build Deep learning classification models
+3. Keras and TensorFlow to build Deep learning classification models.
 4. Matplotlib and Seaborn to generate visualizations.
 
 
