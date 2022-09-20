@@ -60,7 +60,7 @@ Baseline models using standard Machine Learning classification algorithms:
 ### Convolutional Neural Network Algorithms
 
 Convolutional neural network models:
-1. CNN Model with 269,643 parameters
+1. CNN Model with 269,643 parameters.
 2. Transfer Learning using VGG19.
 
 
