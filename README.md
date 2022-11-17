@@ -83,7 +83,7 @@ The following tools were used in this project:
 ### Communication:
 
 
-The findings and slide deck accompanying this project's presentation are accessible in this GitHub repository...
+The findings and slide deck accompanying this project's presentation are accessible in this GitHub repository.
 
 
 
